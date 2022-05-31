@@ -1,4 +1,4 @@
-package net.denis.gitusers.features.users.domain.model
+package net.denis.domain.model
 
 import android.media.Image
 

@@ -1,4 +1,4 @@
-package net.denis.gitusers.features.users.domain.usecase
+package net.denis.domain.usecase
 
 class MakeToastUserNameByIdUseCase {
 

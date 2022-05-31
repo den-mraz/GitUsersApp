@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitUsers</string>
+      <string name="title_domain">Module Title</string>
 </resources>

@@ -1,7 +1,8 @@
-package net.denis.gitusers
+package net.denis.gitusers.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import net.denis.gitusers.R
 import net.denis.gitusers.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -10,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(binding.root)
     }
 }   
