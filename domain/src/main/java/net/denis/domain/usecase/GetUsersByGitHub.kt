@@ -5,6 +5,6 @@ import net.denis.domain.model.User
 class GetUsersByGitHub {
 
     fun execute(): User {
-         return TODO()
+         return User(userId = 0, userName = "den-mraz")
     }
 }
