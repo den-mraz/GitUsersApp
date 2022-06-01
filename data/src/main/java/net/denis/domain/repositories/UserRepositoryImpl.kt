@@ -1,4 +1,4 @@
-package net.denis.data.repositories
+package net.denis.domain.repositories
 
 interface UserRepositoryImpl {
 

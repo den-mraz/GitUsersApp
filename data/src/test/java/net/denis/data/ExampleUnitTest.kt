@@ -1,4 +1,4 @@
-package net.denis.domain
+package net.denis.data
 
 import org.junit.Test
 

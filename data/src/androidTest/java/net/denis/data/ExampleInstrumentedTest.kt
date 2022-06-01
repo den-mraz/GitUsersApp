@@ -1,4 +1,4 @@
-package net.denis.domain
+package net.denis.data
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

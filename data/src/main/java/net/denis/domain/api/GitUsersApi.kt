@@ -1,4 +1,4 @@
-package net.denis.data.api
+package net.denis.domain.api
 
 import retrofit2.Response
 import retrofit2.http.GET
