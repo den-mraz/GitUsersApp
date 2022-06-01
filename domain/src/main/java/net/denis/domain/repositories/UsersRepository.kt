@@ -9,5 +9,4 @@ class UsersRepository {
         return User(userId = 0, userName = "nameLastname")
     }
 
-
 }

@@ -1,6 +1,6 @@
-package net.denis.domain.repositories
+package net.denis.data.repositories
 
-import net.denis.domain.model.UserParams
+import net.denis.data.model.UserParams
 
 class UserRepository {
 

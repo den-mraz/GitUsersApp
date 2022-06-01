@@ -1,4 +1,4 @@
-package net.denis.domain.api
+package net.denis.data.api
 
 class GitUsersApiResponse(val items: List<Item>)
 

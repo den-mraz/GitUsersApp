@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("net.denis.data.test", appContext.packageName)
+        assertEquals("net.denis.domain.test", appContext.packageName)
     }
 }

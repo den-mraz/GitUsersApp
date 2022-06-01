@@ -38,8 +38,8 @@ android {
 dependencies {
 
     //Project modules
-    implementation project(':data')
     implementation project(':domain')
+    implementation project(':data')
 
     // Material components
     implementation 'com.google.android.material:material:1.6.0'
